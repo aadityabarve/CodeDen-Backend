@@ -1,5 +1,5 @@
 # CodeDen Backend
-> CodeDen is an online coding portal for practicing programming skills. Its aim is to help students crack Data Structures and Algorithms based Interviews.
+CodeDen is an online coding portal for practicing programming skills. Its aim is to help students crack Data Structures and Algorithms based Interviews. The backend server of the portal is made using NodeJS and ExpressJS
 
 ## Requirements
 
